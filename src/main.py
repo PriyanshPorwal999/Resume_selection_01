@@ -3,12 +3,12 @@ from src.db import init_db
 from src.agents import shortlist_candidates
 
 
-import sys
-import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+# import sys
+# import os
+# sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from src.db import init_db
-from src.agents import shortlist_candidates
+# from src.db import init_db
+# from src.agents import shortlist_candidates
 
 
 def main():
