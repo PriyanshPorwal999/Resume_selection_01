@@ -21,13 +21,15 @@ def test_agent():
         ("Charlie Brown", ["Python", "Deep Learning", "NLP"], 2),
         ("David Lee", ["JavaScript", "React", "Node.js"], 4),
         ("Eva Green", ["SQL", "Data Analysis", "Power BI"], 6),
+        ("Pranav", ["SQL", "Data Analysis", "Power BI"], 6),
+        ("Prakhar", ["SQL", "Data Analysis", "Power BI"], 6),
     ]
-
+  
     # Insert sample candidates into the database
     print("\n📌 Adding Sample Candidates...")
     for name, skills, experience in candidates:
         add_candidate(name, skills, experience)
-        print(f"✅ Added: {name} | Skills: {skills} | Experience: {experience} years")
+        # print(f"✅ Added: {name} | Skills: {skills} | Experience: {experience} years")
 
     # Fetch all candidates from the database
     print("\n📌 Fetching All Candidates...")
@@ -36,7 +38,7 @@ def test_agent():
         print(candidate)
 
     # Define a sample JD
-    jd_skills = ["Python", "Machine Learning", "SQL"]  # Example JD skills
+    jd_skills = ["Python", "Machine Learning", "Java", "SQL"]  # Example JD skills
 
     # Run the matching agent
     print("\n📌 Running the Matching Agent...")
