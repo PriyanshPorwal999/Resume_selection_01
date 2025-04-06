@@ -1,0 +1,722 @@
+[
+  {
+    "job_title": "Software Engineer",
+    "summary": "Here is a 1-2 sentence summary of the job description:\n\nWe are seeking a skilled Software Engineer to design, develop, and maintain high-quality software applications through responsible coding, testing, deployment, and collaboration with teams. The ideal candidate should have proficiency in programming languages like Python or Java, experience with databases, web development, and software frameworks, as well as strong problem-solving skills and attention to detail.",
+    "years_of_experience": [],
+    "education": [
+      "Bachelors degree in Computer Science or a related field",
+      "ms",
+      "ba",
+      "ma"
+    ],
+    "certifications": [],
+    "skills": [
+      "efficient code",
+      "maintainable code",
+      "scalable code",
+      "clean code",
+      "troubleshoot issues",
+      "debug issues",
+      "emerging technologies",
+      "best practices",
+      "programming languages",
+      "Python",
+      "Java",
+      "C",
+      "databases",
+      "web development",
+      "software frameworks",
+      "problem-solving skills",
+      "attention to detail",
+      "collaboration",
+      "team environment."
+    ],
+    "core_responsibilities": [
+      "Here are the main responsibilities extracted from the job description:",
+      "Develop, test, and deploy software applications.",
+      "Write clean, maintainable, and scalable code.",
+      "Collaborate with cross-functional teams to define and implement features.",
+      "Troubleshoot and debug issues for optimal performance.",
+      "Let me know if you'd like me to format them differently!"
+    ]
+  },
+  {
+    "job_title": "Data Scientist",
+    "summary": "Here is a 2-sentence summary of the job description:\n\nA Data Scientist is needed to analyze complex datasets, develop predictive models, and provide actionable insights through collaboration with cross-functional teams, while staying updated on advancements in data science and AI. The ideal candidate should have a Bachelors or Masters degree in Data Science, Python, R, SQL, machine learning frameworks, and experience with data visualization tools like Tableau or Power BI.",
+    "years_of_experience": [],
+    "education": [
+      "Masters degree in Data Science, Computer Science, or a related field",
+      "ms",
+      "Bachelors",
+      "ma"
+    ],
+    "certifications": [],
+    "skills": [
+      "Data Scientist",
+      "Data Analyst",
+      "Machine Learning Engineer",
+      "Business Intelligence Analyst",
+      "Statistical Analysis",
+      "Python",
+      "R",
+      "SQL",
+      "Tableau",
+      "Power BI",
+      "Analytics",
+      "Visualization",
+      "Research",
+      "Problem-Solving",
+      "Collaboration",
+      "Communication",
+      "Time Management",
+      "Data Modeling",
+      "Machine Learning",
+      "Predictive Modeling",
+      "Reporting",
+      "Data Visualization"
+    ],
+    "core_responsibilities": [
+      "Here are the main responsibilities from the job description:",
+      "Collect, clean, and analyze large datasets.",
+      "Develop and deploy machine learning models using Python, R, SQL, and machine learning frameworks.",
+      "Build predictive analytics solutions to improve business outcomes.",
+      "Communicate findings through reports and visualizations.",
+      "Stay updated with advancements in data science and AI."
+    ]
+  },
+  {
+    "job_title": "Product Manager",
+    "summary": "Here is a concise summary of the job description in 1-2 sentences:\n\nWe are seeking a Product Manager to lead product development, collaborate with cross-functional teams, and drive successful product launches through market research, feature analysis, and customer feedback optimization. The ideal candidate will possess experience in product management, agile methodologies, and data-driven decision-making, and will be skilled in analytics, leadership, and communication.",
+    "years_of_experience": [],
+    "education": [
+      "Ma",
+      "ms",
+      "ma",
+      "ba",
+      "Bachelors degree in Business, Computer Science, or a related field"
+    ],
+    "certifications": [],
+    "skills": [
+      "business analysis",
+      "market research",
+      "customer needs definition",
+      "team collaboration",
+      "roadmap development",
+      "launch execution",
+      "prioritization",
+      "feature creation",
+      "product lifecycle management",
+      "user feedback analysis",
+      "data optimization",
+      "business alignment",
+      "project management",
+      "agile methodologies",
+      "market trend analysis."
+    ],
+    "core_responsibilities": [
+      "Here are the 3-5 key responsibilities for the Product Manager position:",
+      "Define product vision and strategy based on market research.",
+      "Collaborate with cross-functional teams to develop and launch products.",
+      "Prioritize features, create roadmaps, and manage product lifecycle.",
+      "Analyze user feedback and data to optimize product performance.",
+      "Ensure alignment between business goals and product development."
+    ]
+  },
+  {
+    "job_title": "Cloud Engineer",
+    "summary": "Here is a concise summary of the job description in 1-2 sentences focusing on key requirements:\n\nAs a Cloud Engineer, you will design and implement cloud-based infrastructure to optimize performance, security, and scalability while collaborating with development teams. To succeed, you must have experience working with AWS, Azure, or Google Cloud, as well as proficiency in infrastructure-as-code tools like Terraform, CloudFormation, Python, Bash, or PowerShell.",
+    "years_of_experience": [],
+    "education": [
+      "ms",
+      "ma",
+      "Ba",
+      "ba",
+      "Bachelors degree in Computer Science, IT, or related field"
+    ],
+    "certifications": [
+      "AWS",
+      "Azure"
+    ],
+    "skills": [
+      "Cloud architecture",
+      "automation",
+      "deployment management",
+      "CI/CD pipelines",
+      "performance optimization",
+      "security best practices",
+      "compliance measures",
+      "Terraform",
+      "CloudFormation",
+      "Python",
+      "Bash",
+      "PowerShell",
+      "infrastructure-as-code."
+    ],
+    "core_responsibilities": [
+      "Here are the main responsibilities extracted from the job description:",
+      "Design and maintain cloud architecture for high availability and security.",
+      "Automate deployments and manage CI/CD pipelines to ensure efficient deployment of cloud solutions.",
+      "Monitor cloud systems to troubleshoot issues and optimize costs.",
+      "Implement security best practices and compliance measures in cloud infrastructure.",
+      "These responsibilities provide a concise overview of the key tasks and skills required for this Cloud Engineer role."
+    ]
+  },
+  {
+    "job_title": "Cybersecurity Analyst",
+    "summary": "Here is a concise summary of the job description in 1-2 sentences:\n\nThe Cybersecurity Analyst position involves monitoring networks for security threats, conducting vulnerability assessments, implementing security protocols, and responding to potential breaches. To perform this role effectively, candidates need relevant technical skills, knowledge of cybersecurity best practices, and analytical problem-solving abilities, including certifications like CEH, CISSP, or CompTIA Security.",
+    "years_of_experience": [],
+    "education": [
+      "ms",
+      "ma",
+      "Bachelors degree in Cybersecurity, Computer Science, or related field"
+    ],
+    "certifications": [
+      "CISSP",
+      "Certification"
+    ],
+    "skills": [
+      "Cybersecurity Analyst",
+      "Monitoring",
+      "Network analysis",
+      "Security incident response",
+      "Vulnerability assessment",
+      "Firewall implementation",
+      "Encryption protocols",
+      "Compliance",
+      "Cyber regulation",
+      "Risk management",
+      "SIEM tools",
+      "Intrusion detection systems."
+    ],
+    "core_responsibilities": [
+      "Here is the list of key responsibilities:",
+      "Monitor and analyze security alerts to detect potential threats.",
+      "Conduct vulnerability assessments and risk analysis.",
+      "Implement security policies, firewalls, and encryption protocols.",
+      "Investigate and respond to security breaches."
+    ]
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "summary": "Here is a 1-2 sentence summary of the job description:\n\nA Machine Learning Engineer role involves developing, training, and deploying AI models for real-world applications, working with large datasets and collaborating across teams to drive innovation. The ideal candidate has strong problem-solving skills, proficiency in Python, TensorFlow, PyTorch, and Scikit-learn, and experience with data preprocessing and cloud platforms.",
+    "years_of_experience": [],
+    "education": [
+      "Masters in Computer Science, Data Science, or a related field",
+      "Ma",
+      "ms",
+      "Bachelors",
+      "ma"
+    ],
+    "certifications": [],
+    "skills": [
+      "Machine Learning Engineer",
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Data Science",
+      "Analytical Mindset",
+      "Problem Solving Skills",
+      "Cloud Platforms",
+      "Data Preprocessing",
+      "AI Model Deployment"
+    ],
+    "core_responsibilities": [
+      "Here are the main responsibilities extracted from the job description:",
+      "Develop and optimize machine learning models for various applications.",
+      "Process and analyze large datasets to extract meaningful insights.",
+      "Deploy and maintain AI models in production environments.",
+      "Collaborate with data scientists, engineers, and product teams.",
+      "These key responsibilities highlight the essential tasks that a Machine Learning Engineer would need to perform on this job."
+    ]
+  },
+  {
+    "job_title": "DevOps Engineer",
+    "summary": "Here is a concise summary of the job description in 1-2 sentences:\n\nThe DevOps Engineer role involves streamlining development, deployment, and operations by automating infrastructure, pipelines, and system reliability. The ideal candidate should have strong technical skills, including cloud platforms experience, containerization expertise, scripting proficiency, and knowledge of configuration management tools.\n\nHowever, I couldn't find any job description to summarize from your prompt. Please provide the correct job description so I can assist you better.",
+    "years_of_experience": [],
+    "education": [
+      "ms",
+      "Ba",
+      "Bachelors degree in Computer Science, IT, or related field",
+      "ma"
+    ],
+    "certifications": [
+      "AWS",
+      "Azure"
+    ],
+    "skills": [
+      "DevOps Engineer",
+      "CI/CD pipelines",
+      "Terraform",
+      "Ansible",
+      "Docker",
+      "Kubernetes",
+      "Python",
+      "Bash",
+      "PowerShell",
+      "Configuration Management Tools."
+    ],
+    "core_responsibilities": [
+      "Here are the main responsibilities extracted from the job description:",
+      "Develop and maintain CI/CD pipelines for seamless deployment.",
+      "Automate infrastructure management using Terraform or Ansible.",
+      "Monitor system performance and ensure high availability.",
+      "Collaborate with development and operations teams to optimize workflows.",
+      "Implement security best practices and ensure compliance."
+    ]
+  },
+  {
+    "job_title": "Full Stack Developer",
+    "summary": "Here is a concise summary of the job description:\n\nWe are seeking a skilled Full Stack Developer to design, develop, and maintain web applications, requiring expertise in both frontend and backend technologies. The ideal candidate will collaborate with designers and engineers, optimize application performance, troubleshoot issues, and stay updated on emerging technologies.\n\nKey requirements include proficiency in JavaScript, React, Node.js, databases (SQL/NoSQL), RESTful APIs, cloud services, and version control (Git).",
+    "years_of_experience": [],
+    "education": [
+      "Bachelors degree in Computer Science or related field ",
+      "ba",
+      "ma"
+    ],
+    "certifications": [],
+    "skills": [
+      "Full Stack Developer",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Databases",
+      "RESTful APIs",
+      "Cloud Services",
+      "Version Control",
+      "Problem Solving."
+    ],
+    "core_responsibilities": [
+      "Here are the main responsibilities extracted from the job description:",
+      "Develop and maintain web applications using modern frontend and backend technologies.",
+      "Collaborate with designers and backend engineers on new feature implementations.",
+      "Optimize application performance and ensure scalability.",
+      "Troubleshoot and debug issues in a fast-paced environment.",
+      "Let me know if you'd like me to help with anything else!"
+    ]
+  },
+  {
+    "job_title": "Big Data Engineer",
+    "summary": "Here is a summary of the job description in 1-2 sentences:\n\nThe Big Data Engineer role involves designing, developing, and maintaining scalable data pipelines to process and analyze large datasets using distributed computing technologies. The ideal candidate has experience with Hadoop, Spark, Kafka, SQL, Python, or Scala programming languages, as well as knowledge of cloud platforms like AWS, Azure, or GCP.\n\nKey requirements include a Bachelor's/Master's degree in Computer Science, Data Engineering, or a related field, and proficiency in data processing using tools such as SQL, Python, or Scala.",
+    "years_of_experience": [],
+    "education": [
+      "Masters degree in Computer Science, Data Engineering, or related field",
+      "ms",
+      "Bachelors",
+      "ma",
+      "ba"
+    ],
+    "certifications": [
+      "AWS",
+      "Azure"
+    ],
+    "skills": [
+      "Big Data Engineer",
+      "Distributed Computing Technologies",
+      "Cloud-Based Technologies",
+      "SQL",
+      "Python",
+      "Scala",
+      "Hadoop",
+      "Spark",
+      "Kafka",
+      "Big Data Storage",
+      "Data Security",
+      "Compliance",
+      "Problem-Solving",
+      "Analytical Skills"
+    ],
+    "core_responsibilities": [
+      "Here are 3-5 key responsibilities:",
+      "Design and implement scalable data pipelines using distributed computing technologies.",
+      "Optimize data storage and retrieval for performance and scalability in various environments (cloud-based and on-premises).",
+      "Collaborate with data scientists and analysts to support business needs and ensure data security, integrity, and compliance.",
+      "Work with big data technologies like Hadoop, Spark, Kafka, and distributed computing platforms to solve problems."
+    ]
+  },
+  {
+    "job_title": "AI Researcher",
+    "summary": "Here is a concise summary of the job description in 1-2 sentences:\n\nAn innovative AI Researcher is needed to advance cutting-edge AI models and algorithms through research, model development, publication, and integration into real-world applications. The ideal candidate should have a Ph.D. or Master's degree in AI, Machine Learning, or a related field, as well as strong programming skills in Python, TensorFlow, or PyTorch.",
+    "years_of_experience": [],
+    "education": [
+      "ms",
+      "Masters in AI, Machine Learning, or related field",
+      "ma"
+    ],
+    "certifications": [],
+    "skills": [
+      "innovative AI Researcher",
+      "cutting-edge AI models and algorithms",
+      "machine learning",
+      "deep learning",
+      "NLP",
+      "research",
+      "publishing",
+      "cross-functional teams",
+      "collaboration",
+      "programming skills in Python",
+      "TensorFlow",
+      "PyTorch",
+      "problem-solving",
+      "analytical skills",
+      "research methodologies."
+    ],
+    "core_responsibilities": [
+      "Here are 3-5 key responsibilities extracted from the job description:",
+      "Conduct research in AI, deep learning, and NLP to develop cutting-edge models and algorithms.",
+      "Develop and optimize machine learning models using programming languages like Python, TensorFlow, or PyTorch.",
+      "Publish findings in top-tier conferences and journals through research methodologies and model optimization techniques.",
+      "Collaborate with cross-functional teams to integrate AI solutions into real-world applications.",
+      "Note: The job description only mentions conducting research, developing and optimizing models, publishing results, and collaborating with teams, but does not explicitly state the main responsibilities as tasks or duties rather than responsibilities."
+    ]
+  },
+  {
+    "job_title": "Database Administrator",
+    "summary": "Here is a 1-2 sentence summary of the job description:\n\nA Database Administrator is responsible for managing, optimizing, and securing database systems to ensure high performance, availability, and data integrity, while monitoring and resolving issues to maintain system reliability. The role requires strong technical skills, including proficiency in SQL, database management systems, and problem-solving abilities.",
+    "years_of_experience": [],
+    "education": [
+      "Ma",
+      "ms",
+      "ma",
+      "ba",
+      "Bachelors degree in Computer Science or related field"
+    ],
+    "certifications": [],
+    "skills": [
+      "Computer science",
+      "data analysis",
+      "database design",
+      "database management",
+      "MySQL",
+      "PostgreSQL",
+      "Oracle",
+      "MongoDB",
+      "troubleshooting",
+      "problem-solving",
+      "analytical thinking."
+    ],
+    "core_responsibilities": [
+      "Here are the main responsibilities extracted from the job description:",
+      "Install, configure, and maintain database systems.",
+      "Optimize database performance for high availability and data integrity.",
+      "Ensure data security measures to prevent unauthorized access.",
+      "Troubleshoot issues that impact database health and functionality.",
+      "Implement best practices for database design and management.",
+      "Note: I've kept each responsibility concise, as per your request."
+    ]
+  },
+  {
+    "job_title": "Network Engineer",
+    "summary": "Here is a 2-sentence summary of the job description:\n\nA skilled Network Engineer is required to design, implement, and maintain network infrastructure while ensuring high availability, security, and performance. The ideal candidate will possess strong knowledge of networking protocols, experience with firewalls, routers, and enterprise networking technologies, and problem-solving skills to troubleshoot issues and optimize connectivity.",
+    "years_of_experience": [],
+    "education": [
+      "Bachelors degree in Computer Science, IT, or a related field",
+      "ms",
+      "Ma",
+      "ma"
+    ],
+    "certifications": [],
+    "skills": [
+      "Computer Science",
+      "IT",
+      "Networking",
+      "Problem-solving",
+      "Troubleshooting",
+      "Communication",
+      "Time management",
+      "Project management"
+    ],
+    "core_responsibilities": [
+      "Here are the main responsibilities extracted from the job description:",
+      "Design and deploy network solutions for optimal performance.",
+      "Monitor network health and troubleshoot issues.",
+      "Implement security measures to protect network integrity.",
+      "Manage firewalls, routers, switches, and VPNs.",
+      "Ensure compliance with networking best practices and standards."
+    ]
+  },
+  {
+    "job_title": "Software Architect",
+    "summary": "Here is a concise summary of the job description in 1-2 sentences, focusing on key requirements:\n\nA Software Architect is sought after to design and oversee scalable software solutions, collaborating with development teams to deliver efficient, secure, and maintainable applications. Key qualifications include a Bachelor's or Master's degree in Computer Science or a related field, expertise in software design patterns, cloud computing, microservices, DevOps practices, programming languages like Java, Python, or C, and strong problem-solving and leadership skills.\n\nAlternatively, a more concise summary could be:\n\nA Software Architect is responsible for designing and implementing scalable software solutions, guiding development teams, ensuring security, performance, and best practices. The ideal candidate will have expertise in computer science, software design patterns, cloud computing, microservices, DevOps practices, programming languages like Java, Python, or C.",
+    "years_of_experience": [],
+    "education": [
+      "ms in best coding and design practices",
+      "ms",
+      "Bachelors",
+      "ma",
+      "Masters degree in Computer Science or related field"
+    ],
+    "certifications": [],
+    "skills": [
+      "Software Architect",
+      "scalable",
+      "high-performance",
+      "best practices",
+      "collaboration",
+      "efficient",
+      "secure",
+      "maintainable",
+      "design patterns",
+      "system architecture",
+      "cloud computing",
+      "microservices",
+      "DevOps",
+      "programming languages (Java",
+      "Python",
+      "C)",
+      "problem-solving",
+      "leadership."
+    ],
+    "core_responsibilities": [
+      "Here are the 3-5 key responsibilities extracted from the job description:",
+      "Design and implement robust software architectures.",
+      "Guide development teams in best coding and design practices.",
+      "Ensure scalability, security, and performance of applications.",
+      "Conduct architectural reviews and optimize system workflows.",
+      "Let me know if you'd like me to make any changes!"
+    ]
+  },
+  {
+    "job_title": "Blockchain Developer",
+    "summary": "Here is a 2-sentence summary of the job description:\n\nA Blockchain Developer is responsible for designing, developing, and maintaining blockchain-based applications that ensure security, scalability, and efficiency. The role requires proficiency in Solidity, Ethereum, Hyperledger, cryptography, smart contracts, and decentralized applications to build innovative solutions.",
+    "years_of_experience": [],
+    "education": [
+      "ms",
+      "Bachelors degree in Computer Science, Information Technology, or a related field",
+      "ba",
+      "ma"
+    ],
+    "certifications": [],
+    "skills": [
+      "Computer science",
+      "information technology",
+      "solidity",
+      "ethereum",
+      "hyperledger",
+      "cryptography",
+      "smart contracts",
+      "decentralized applications",
+      "blockchain frameworks",
+      "performance optimization",
+      "scalability",
+      "security protocols",
+      "compliance",
+      "distributed systems",
+      "emerging technologies"
+    ],
+    "core_responsibilities": [
+      "Here are 3-5 key responsibilities, one per line:",
+      "Design and develop secure blockchain-based applications.",
+      "Deploy and optimize blockchain infrastructure for performance and scalability.",
+      "Integrate blockchain solutions with existing systems seamlessly.",
+      "Ensure security and compliance in all blockchain implementations.",
+      "Let me know if you'd like me to help with anything else!"
+    ]
+  },
+  {
+    "job_title": "IT Project Manager",
+    "summary": "Here is a 1-2 sentence summary of the job description:\n\nAn IT Project Manager oversees the planning to execution of IT projects, ensuring timely delivery while managing risks and implementing best practices for successful project completion. The role requires experience in IT project management, Agile methodologies, and strong leadership and communication skills.\n\nKey requirements: Bachelor's degree in IT or a related field; 1-2 years of experience in IT project management; knowledge of Agile, Scrum, and Waterfall methodologies.",
+    "years_of_experience": [],
+    "education": [
+      "ms",
+      "Bachelors degree in IT, Computer Science, or related field",
+      "ma"
+    ],
+    "certifications": [],
+    "skills": [
+      "IT Project Management",
+      "Agile Methodologies",
+      "Scrum",
+      "Waterfall",
+      "Leadership",
+      "Communication",
+      "Problem-Solving",
+      "Risk Management",
+      "Project Scheduling",
+      "Budgeting",
+      "Cross-Functional Team Collaboration"
+    ],
+    "core_responsibilities": [
+      "Here are the main responsibilities from the job description, one per line:",
+      "Define project scope, goals, and deliverables to ensure alignment with business objectives.",
+      "Develop and manage project timelines, budgets, and resources to meet desired outcomes.",
+      "Coordinate between cross-functional teams and stakeholders to facilitate effective collaboration.",
+      "Identify and mitigate risks to prevent project delays or failures.",
+      "Monitor progress, provide regular status updates, and adjust the plan as needed to ensure successful project completion.",
+      "These responsibilities highlight the key tasks and skills required for this IT project management role."
+    ]
+  },
+  {
+    "job_title": "Business Intelligence Analyst",
+    "summary": "Here is a 2-sentence summary of the job description:\n\nThe Business Intelligence Analyst role involves analyzing business data to identify trends, create reports, and drive strategic decision-making using tools such as Power BI, Tableau, or similar platforms. The ideal candidate should have relevant qualifications in Data Science, Business Analytics, or a related field, with strong analytical skills, proficiency in SQL, and experience in data visualization and statistical analysis.",
+    "years_of_experience": [],
+    "education": [
+      "ms",
+      "Bachelors degree in Data Science, Business Analytics, or a related field",
+      "ma"
+    ],
+    "certifications": [],
+    "skills": [
+      "Data Analysis",
+      "Business Intelligence",
+      "Statistical Analysis",
+      "SQL",
+      "Data Visualization",
+      "Problem Solving",
+      "Communication",
+      "Team Collaboration",
+      "Reporting Development",
+      "Data Accuracy",
+      "Data Integrity"
+    ],
+    "core_responsibilities": [
+      "Here are 3-5 key responsibilities extracted from the job description:",
+      "Collect and process business data to drive insights.",
+      "Develop interactive dashboards and reports using BI tools.",
+      "Ensure data accuracy and integrity in reporting.",
+      "Collaborate with teams to improve data-driven decision-making.",
+      "Analyze trends and identify opportunities for strategic growth."
+    ]
+  },
+  {
+    "job_title": "Robotics Engineer",
+    "summary": "Here is a 2-sentence summary of the job description:\n\nWe are seeking a Robotics Engineer to design, develop, and optimize robotic systems for various industries and research applications. Responsibilities include designing hardware-software integration, software development, sensor-actuator integration, problem-solving, and troubleshooting in robotics systems.",
+    "years_of_experience": [],
+    "education": [
+      "ms",
+      "Bachelors",
+      "ma",
+      "ba",
+      "Masters degree in Robotics, Mechanical Engineering, or related field"
+    ],
+    "certifications": [],
+    "skills": [
+      "Robotics Engineer",
+      "hardware-software integration",
+      "motion control",
+      "AI-driven robotics solutions",
+      "sensor integration",
+      "actuator integration",
+      "software development algorithms",
+      "navigation control",
+      "automation control",
+      "ROS",
+      "C programming",
+      "Python programming",
+      "embedded systems",
+      "system optimization",
+      "troubleshooting",
+      "analytical thinking",
+      "problem-solving skills."
+    ],
+    "core_responsibilities": [
+      "Here are the main responsibilities extracted from the job description:",
+      "Design, build, and test robotic systems for industrial or research applications.",
+      "Develop software algorithms for navigation, control, and automation.",
+      "Integrate sensors, actuators, and AI-based decision-making systems.",
+      "Troubleshoot and optimize robotic performance."
+    ]
+  },
+  {
+    "job_title": "Embedded Systems Engineer",
+    "summary": "Here is a summary of the job description in 1-2 sentences focusing on key requirements:\n\nTo be an Embedded Systems Engineer, you need a Bachelor's degree in Electrical Engineering or a related field, proficiency in C/C, assembly language, and embedded Linux, as well as experience with microcontrollers, RTOS, hardware debugging tools, and problem-solving skills.",
+    "years_of_experience": [],
+    "education": [
+      "Bachelors degree in Electrical Engineering, Computer Engineering, or related field",
+      "ms",
+      "ma"
+    ],
+    "certifications": [],
+    "skills": [
+      "software engineering",
+      "embedded systems development",
+      "microcontroller programming",
+      "real-time operating system",
+      "low-level programming",
+      "debugging",
+      "troubleshooting",
+      "performance optimization",
+      "power consumption control",
+      "hardware integration",
+      "software testing",
+      "Linux kernel",
+      "C/C programming",
+      "assembly language",
+      "computer networking",
+      "system analysis and design."
+    ],
+    "core_responsibilities": [
+      "Here are 3-5 key responsibilities, one per line:",
+      "Design and develop software for embedded systems to ensure performance, efficiency, and reliability.",
+      "Collaborate with hardware teams to integrate and troubleshoot real-time system issues.",
+      "Optimize power consumption and system performance through debugging and troubleshooting techniques.",
+      "Stay updated with emerging technologies in embedded systems to maintain industry relevance.",
+      "Work with microcontrollers, RTOS, and hardware debugging tools to resolve complex problems."
+    ]
+  },
+  {
+    "job_title": "Quality Assurance Engineer",
+    "summary": "Here is a 2-sentence summary of the job description:\n\nThe Quality Assurance Engineer role involves ensuring the quality and reliability of software applications through manual and automated testing, identifying bugs, and collaborating with developers to improve performance and security. The ideal candidate has experience in testing tools like Selenium or TestNG, analytical skills, and knowledge of software development lifecycle (SDLC) and Agile methodologies.\n\nNote: I condensed the original text into 2 concise sentences that highlight the key requirements for the position, focusing on manual and automated testing, quality assurance, bug identification, collaboration with developers, and performance/ security testing.",
+    "years_of_experience": [],
+    "education": [
+      "Bachelors degree in Computer Science, Engineering, or related field",
+      "ma"
+    ],
+    "certifications": [],
+    "skills": [
+      "Manual testing",
+      "automated testing",
+      "test cases",
+      "script execution",
+      "defect identification",
+      "bug tracking",
+      "collaboration with developers",
+      "performance and security testing",
+      "analytical thinking",
+      "problem-solving skills",
+      "knowledge of software development lifecycle (SDLC)"
+    ],
+    "core_responsibilities": [
+      "Here are 3-5 key responsibilities:",
+      "Develop and execute test plans, cases, and scripts.",
+      "Identify bugs and optimize testing processes for improved efficiency.",
+      "Collaborate with developers to enhance software quality and improve performance.",
+      "Conduct performance and security testing as needed.",
+      "Document software defects and ensure timely resolution through collaboration with developers."
+    ]
+  },
+  {
+    "job_title": "UX/UI Designer",
+    "summary": "Here is a summary of the job description in 1-2 sentences:\n\nWe are seeking a UX/UI Designer to collaborate with developers and stakeholders to create intuitive digital experiences that meet user needs through design, research, and usability testing. The ideal candidate will have strong design skills, including proficiency in design tools like Figma, Adobe XD, or Sketch, as well as an understanding of human-computer interaction principles.",
+    "years_of_experience": [],
+    "education": [
+      "Bachelors degree in Design, Human",
+      "ba",
+      "ma"
+    ],
+    "certifications": [],
+    "skills": [
+      "UX/UI Designer",
+      "Creative",
+      "Detail-oriented",
+      "Collaborative",
+      "Researcher",
+      "Usability testing",
+      "Design trends",
+      "Design best practices",
+      "Design tool proficiency",
+      "User-centric",
+      "Visual appeal",
+      "Technical skills",
+      "Communication skills",
+      "Problem-solving",
+      "Time management."
+    ],
+    "core_responsibilities": [
+      "Here are the main responsibilities extracted from the job description:",
+      "Design wireframes, prototypes, and UI elements based on user needs.",
+      "Conduct user research and usability testing to refine designs.",
+      "Collaborate with developers to ensure accurate implementation of designs.",
+      "Stay updated with design trends and best practices."
+    ]
+  }
+]
